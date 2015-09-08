@@ -1,1 +1,0 @@
-#include "ObjetoCompuesto3D.h"

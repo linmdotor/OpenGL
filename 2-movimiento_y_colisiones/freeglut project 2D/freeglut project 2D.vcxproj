@@ -119,15 +119,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Circulo.cpp" />
-    <ClCompile Include="CirculoConMascara.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Obstaculo.cpp" />
-    <ClCompile Include="Pelota.cpp" />
-    <ClCompile Include="PintarVect.cpp" />
-    <ClCompile Include="Poligono.cpp" />
-    <ClCompile Include="Triangulo.cpp" />
-    <ClCompile Include="TrianguloConMascara.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Circulo.h" />

@@ -120,13 +120,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Arbol.cpp" />
-    <ClCompile Include="Cuadrado.cpp" />
-    <ClCompile Include="Escena.cpp" />
-    <ClCompile Include="Lapiz.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Punto.cpp" />
-    <ClCompile Include="RGBColor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h" />

@@ -67,25 +67,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Camara.cpp" />
-    <ClCompile Include="Cara.cpp" />
-    <ClCompile Include="Cilindro.cpp" />
-    <ClCompile Include="Disco.cpp" />
-    <ClCompile Include="DiscoParcial.cpp" />
-    <ClCompile Include="Escoba.cpp" />
-    <ClCompile Include="Esfera.cpp" />
-    <ClCompile Include="Hexaedro.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Malla.cpp" />
-    <ClCompile Include="Nariz.cpp" />
-    <ClCompile Include="Objeto3D.cpp" />
-    <ClCompile Include="ObjetoCompuesto3D.cpp" />
-    <ClCompile Include="ObjetoCuadrico.cpp" />
-    <ClCompile Include="PV3D.cpp" />
-    <ClCompile Include="RGBColor.cpp" />
-    <ClCompile Include="Sombrero.cpp" />
-    <ClCompile Include="Suelo.cpp" />
-    <ClCompile Include="TAfin.cpp" />
     <ClCompile Include="TextureLoader.cpp" />
   </ItemGroup>
   <ItemGroup>
