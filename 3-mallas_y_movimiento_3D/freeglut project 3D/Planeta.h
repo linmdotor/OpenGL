@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __PLANETA_H
@@ -21,7 +21,7 @@
  Operaciones: 
 	- draw:  Cuadrado -> 
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Planeta {
 

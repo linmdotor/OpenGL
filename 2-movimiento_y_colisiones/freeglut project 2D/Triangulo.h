@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __TRIANGULO_H
@@ -26,7 +26,7 @@
 	- intersección: Triangulo, Pelota -> bool(colision), PV2D(normal), GLdouble(tHit)
 	- draw:  Triangulo -> 
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Triangulo : public Obstaculo{
 

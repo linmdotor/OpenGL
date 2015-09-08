@@ -17,7 +17,7 @@
 	- draw:  Cuadrado -> 
 	- seleccionar: Cuadrado, Punto, GLdouble -> Bool
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Cuadrado {
 

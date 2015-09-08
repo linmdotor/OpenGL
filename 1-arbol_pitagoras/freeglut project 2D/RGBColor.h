@@ -9,7 +9,7 @@
  Operaciones: 
 	- changeColor: RGBColor ->
 	
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class RGBColor {
 

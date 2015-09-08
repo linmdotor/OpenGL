@@ -26,7 +26,7 @@
 	- dibujarString: Escena, char *, void *, GLdouble, GLdouble -> 
 	- dibujarInt: Escena, int, void *, GLdouble, GLdouble -> 
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Escena {
 

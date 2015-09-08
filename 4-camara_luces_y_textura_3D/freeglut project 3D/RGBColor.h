@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __RGBCOLOR_H
@@ -13,7 +13,7 @@
  Operaciones: 
 	- changeColor: RGBColor ->
 	
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class RGBColor {
 

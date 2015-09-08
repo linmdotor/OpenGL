@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __OBJETO3D_H

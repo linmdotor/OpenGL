@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __PINTARVECT_H
@@ -13,7 +13,7 @@
 /**
  Clase PintarVector
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class PintarVect {
 public:	

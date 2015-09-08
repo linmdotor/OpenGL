@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __CIRCULOCONMASCARA_H
@@ -17,7 +17,7 @@
  Clase CirculoConMascara, que hereda de Circulo, añadiendo una mascara, para que la pelota no penetre en él.
  La máscara está formada por un circulo con el radio de la pelota
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class CirculoConMascara : public Circulo{
 

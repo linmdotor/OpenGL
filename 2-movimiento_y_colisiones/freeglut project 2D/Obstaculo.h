@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __OBSTACULO_H
@@ -18,7 +18,7 @@
  Operaciones: 
 	- intersección: Obstaculo, Pelota -> bool(colision), PV2D(normal), GLdouble(tHit)
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 class Obstaculo {

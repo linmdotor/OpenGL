@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __TRIANGULOCONMASCARA_H
@@ -19,7 +19,7 @@
  Clase TrianguloConMascara, que hereda de Triangulo, añadiendo una mascara, para que la pelota no penetre en él. 
  La mascara está formada por 3 circulos en cada vértice (con el radio de la pelota) y 3 triangulos en cada lado.
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class TrianguloConMascara : public Triangulo{
 

@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __PV2D_H
@@ -16,7 +16,7 @@
  Operaciones: 
 	- distanciaPto2Pto:  PV2D, PV2D -> GLdouble
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class PV2D {
 

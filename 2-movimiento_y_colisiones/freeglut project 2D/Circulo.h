@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __CIRCULO_H
@@ -26,7 +26,7 @@
 	- intersección: Circulo, Pelota -> bool(colision), PV2D(normal), GLdouble(tHit)
 	- draw:  Circulo -> 
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Circulo : public Obstaculo{
 

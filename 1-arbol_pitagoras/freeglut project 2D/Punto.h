@@ -11,7 +11,7 @@
  Operaciones: 
 	- distanciaPto2Pto:  Punto, Punto -> GLdouble
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Punto {
 

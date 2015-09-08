@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __PELOTA_H
@@ -25,7 +25,7 @@
 	- draw:  Cuadrado -> 
 	- seleccionar: Cuadrado, PV2D, GLdouble -> Bool
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Pelota {
 

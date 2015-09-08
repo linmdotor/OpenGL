@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __POLIGONO_H
@@ -24,7 +24,7 @@ using namespace std;
 	- draw:  Poligono ->
 	- construir: Poligono ->
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Poligono {
 

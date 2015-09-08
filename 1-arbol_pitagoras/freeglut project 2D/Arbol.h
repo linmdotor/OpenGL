@@ -25,7 +25,7 @@ using namespace std;
 	- seleccionar: Arbol, Punto, GLdouble -> Bool
 	- anidar: Arbol ->
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Arbol {
 

@@ -1,5 +1,5 @@
 ﻿/**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __ESCENA_H
@@ -37,7 +37,7 @@
 	- dibujarInt: Escena, int, void *, GLdouble, GLdouble -> 
 	- step: Escena ->
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Escena {
 

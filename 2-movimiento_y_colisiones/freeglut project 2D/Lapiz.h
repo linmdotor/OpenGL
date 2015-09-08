@@ -1,5 +1,5 @@
 /**
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 
 #ifndef __LAPIZ_H
@@ -20,7 +20,7 @@ const GLdouble PI = 3.141592653589793;
 	- turn: Lapiz, GLdouble -> 
 	- forward: Lapiz, GLdouble, Bool -> 
 
-@author Jesús Martínez Dotor
+@author Lin M. Dotor
 */
 class Lapiz {
 
