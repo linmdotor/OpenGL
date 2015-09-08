@@ -6,6 +6,7 @@
 #define __CIRCULO_H
 
 #include <GL/freeglut.h>
+#include <algorithm>
 
 #include "PV2D.h"
 #include "Obstaculo.h"
